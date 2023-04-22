@@ -1,26 +1,3 @@
-# TABOO.AI
-
-![taboo.ai](/public/images/Poster.png)
-
-## How to play?
-
-![taboo.ai](/public/images/Artboard%201.png)
-![taboo.ai](/public/images/Artboard%202.png)
-![taboo.ai](/public/images/Artboard%203.png)
-
-## Pre-requisites
-
-`Taboo.AI` needs `OpenAI` to work! Therefore, you need to obtain an **API Key** at https://openai.com/api/
-
-Assume you have gotten your API Key: `123456` (just an example),
-Go to the root of the project, create a file `.env.local` and put your key inside as follows:
-
-```bash
-OPENAI_API=123456
-```
-
-Then you are set!
-
 ## How to run
 
 Install the project

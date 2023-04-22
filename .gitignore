@@ -2,6 +2,11 @@
 
 # dependencies
 /node_modules
+/.github
+/.husky
+/.next
+./vscode
+/__test__
 /.pnp
 .pnp.js
 
